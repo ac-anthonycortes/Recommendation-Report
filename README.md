@@ -24,5 +24,7 @@ These insights could lead to optimized sales tactics, improved customer engageme
 To communicate these findings effectively, I used Python libraries (Matplotlib, Seaborn) and Tableau to create interactive and compelling data visualizations. These visualizations offer stakeholders an intuitive understanding of sales performance, customer behavior, and profitability.
 
 Feel free to explore the code and visualizations, and reach out if you have any questions or feedback.
+
 Email: anthonycortes@ymail.com
+
 Link to dashboard: https://public.tableau.com/app/profile/anthony.cortes/viz/SuperstoreExecutiveSummary_16873007186210/Dashboard1
