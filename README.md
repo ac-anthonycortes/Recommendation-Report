@@ -8,18 +8,25 @@ This repository contains my deep-dive analysis of a comprehensive sales dataset 
 The analysis was conducted using Python, specifically the Pandas library. I examined the data from various angles, including:
 
 -Temporal trends
+
 -Customer behavior
+
 -Product performance
+
 -Regional variances
+
 -Impacts of different shipping modes
 
 
 | Key Findings |
 
 The analysis revealed several valuable insights that could guide business strategy and decision-making:
-Sales increase by 109% during holiday months.
-Identification of highest-value customers and top-performing products.
-These insights could lead to optimized sales tactics, improved customer engagement, and potentially increase profitability by 20%.
+
+-Sales increase by 109% during holiday months.
+
+-Identification of highest-value customers and top-performing products.
+
+-These insights could lead to optimized sales tactics, improved customer engagement, and potentially increase profitability by 20%.
 
 | Data Visualization |
 
