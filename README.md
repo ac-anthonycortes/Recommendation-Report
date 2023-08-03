@@ -7,15 +7,11 @@ This repository contains my deep-dive analysis of a comprehensive sales dataset 
 
 The analysis was conducted using Python, specifically the Pandas library. I examined the data from various angles, including:
 
-Temporal trends
-
-Customer behavior
-
-Product performance
-
-Regional variances
-
-Impacts of different shipping modes
+-Temporal trends
+-Customer behavior
+-Product performance
+-Regional variances
+-Impacts of different shipping modes
 
 
 | Key Findings |
